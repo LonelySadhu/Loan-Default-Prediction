@@ -1,4 +1,4 @@
-## Loan-Default-Prediction
+## Loan Default Prediction
 ***
 Курсовой проект для курса "Python для Data Science 2"
 
